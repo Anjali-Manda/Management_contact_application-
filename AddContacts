@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1><u><center>Add contacts</center></u></h1>
+<method="POST" form action="f3.php">
+<center>
+Name <input type="text" name="name"><br><br>
+Phno <input type="text" name="phno"><br><br>
+Email <input type="text" name="email"><br><br>
+<button type="submit">save</button type>
+</center>
+</form>
+</body>
+</html>
