@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+<h1> Sign Up </h1>
+<p>Already have an account? <a href="#"> Sign In</a></p>
+<form name="form" action="f.php" method="POST">
+<label for="email">Email</label><br>
+<input type="text" name="email"><br>
+<label for="password">Password</label><br>
+<input type="text" name="password"><br>
+<label for="secret code"> Secret </label><br> 
+<input type="text" name="secret"><br><br>
+<button type="submit"> Sign Up </button type>
+<p> By cliking the "Sign Up" button, you are creating an account, and you agree to the Terms of Use.</p>
+
+</body>
+
+</html>
